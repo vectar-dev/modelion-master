@@ -1,0 +1,14 @@
+[33m[nodemon] 2.0.6[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): src/**/*[39m
+[33m[nodemon] watching extensions: ts[39m
+[32m[nodemon] starting `ts-node ./src/server.ts`[39m
+Start Firebase Connection
+new Order
+new Order
+new Order
+new Order
+new Order
+new Order
+new Order
+new Order
